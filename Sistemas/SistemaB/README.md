@@ -27,6 +27,14 @@ O sistema opera do seguinte modo:
 
 ---
 
+<h2>
+  <p align="center">
+    <a href="https://www.tinkercad.com/things/iMYAcbxie5t-sistema-b?sharecode=M4CVNCELMORiaJdmlVwE01gUXcLD0Ykc2BXN-DVQNRs" alt="Tinkercad" title="Creedly">Tinkercad</a>
+  </p>
+</h2>
+
+---
+
 <h2 align="left"></h2>
   <div align="center">
     <img src = "https://github.com/user-attachments/assets/fc156a13-94e1-4b4c-a782-dca05eb3e228">
