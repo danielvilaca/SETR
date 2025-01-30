@@ -15,14 +15,14 @@ O sistema opera do seguinte modo:
     
     • Desliga a ventoinha sempre que a temperatura seja inferior a 20 graus celsius;
     
-    • Deve ainda dar indicação do controlo do ambiente através de 2 leds:
+    • Dá a indicação do controlo do ambiente através de 2 leds:
       o Led vermelho liga quando está em arrefecimento;
       o Led verde liga quando está estabilizado;
       
-    • O estado da ventoinha (“Fan ON/ Fan OFF”) deve ser apresentado na 1ª linha de
+    • O estado da ventoinha (“Fan ON/ Fan OFF”) é apresentado na 1ª linha de
       um display lcd e na 2ª linha a temperatura atual (“Temp: xxxºC”);
       
-    • A luminosidade do display deverá ser controlada com um potenciómetro.
+    • A luminosidade do display é controlada com um potenciómetro.
 
 
 ---
